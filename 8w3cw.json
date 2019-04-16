@@ -1,1 +1,106 @@
-[{"nombre":"Chuquicamata","url":"https://es.wikipedia.org/wiki/Chuquicamata","foto":"https://es.wikipedia.org/wiki/Chuquicamata#/media/File:Mina_de_Chuquicamata,_Calama,_Chile,_2016-02-01,_DD_110-112_PAN.JPG","ha":5100,"ubicacion":[-22.290556,-68.901944]},{"nombre":"Mina El Teniente","url":"https://es.wikipedia.org/wiki/Mina_El_Teniente","foto":"https://es.wikipedia.org/wiki/Mina_El_Teniente#/media/File:Punta_de_rieles.jpg","ha":3000,"ubicacion":[-34.094266,-70.350893]},{"nombre":"Collahuasi","url":"https://es.wikipedia.org/wiki/Collahuasi","foto":"https://es.wikipedia.org/wiki/Collahuasi#/media/File:Flight_from_Buenos_Aires_to_Lima_-_the_giant_Collahuasi-Ujina_Copper-Silver_mine_at_4000m_in_the_Andes_(in_Chile)_just_W_of_the_Salaar_de_Uyuni_(Bolivia)_-_(26796598051).jpg","ha":142800,"ubicacion":[-20.986944,-68.717222]},{"nombre":"Mina Invierno","url":"https://www.minainvierno.cl/ubicacion-mina-invierno/","foto":"https://www.eldesconcierto.cl/wp-content/uploads/2018/12/Mina-Invierno.jpg","ha":1509,"ubicacion":[-53.1556595,-70.9160845]},{"nombre":"Salar de Surire","url":"https://es.wikipedia.org/wiki/Salar_de_Surire","foto":"https://es.wikipedia.org/wiki/Salar_de_Surire#/media/File:Salar_de_Surire.jpg","ha":4560,"ubicacion":[-18.837222,-69.046111]},{"nombre":"Chañarcillo","url":"https://es.wikipedia.org/wiki/Cha%C3%B1arcillo","foto":"https://es.wikipedia.org/wiki/Cha%C3%B1arcillo#/media/File:Estacion_de_Cha%C3%B1arcillo_1862_de_Rafael_Castro_y_Ordo%C3%B1ez.jpg","ha":4000,"ubicacion":[-27.133333,-70.066667]},{"nombre":"Chiflón del Diablo","url":"https://es.wikipedia.org/wiki/Chifl%C3%B3n_del_Diablo","foto":"https://es.wikipedia.org/wiki/Chifl%C3%B3n_del_Diablo#/media/File:Mina_Chifl%C3%B3n_del_Diablo.JPG","ha":850,"ubicacion":[-27.133333,-70.066667]},{"nombre":"El Romeral","url":"https://es.wikipedia.org/wiki/El_Romeral_(mina)","foto":"https://www.df.cl/noticias/site/artic/20160309/imag/foto_0000000220160309213436.jpg","ha":800,"ubicacion":[-29.721944,-71.235833]},{"nombre":"San José","url":"https://es.wikipedia.org/wiki/Mina_San_Jos%C3%A9","foto":"https://es.wikipedia.org/wiki/Mina_San_Jos%C3%A9#/media/File:San_Jose_Mine,_Chile.jpg","ha":50491,"ubicacion":[-27.158609,-70.497655]}]
+[
+    {"nombre":"Chuquicamata",
+     "url":"https://es.wikipedia.org/wiki/Chuquicamata",
+     "foto":"http://www.laizquierdadiario.cl/IMG/arton107054.jpg",
+     "material":"Cobre",
+     "estado":"Activa",
+     "ubicacion":[-22.290556,-68.901944]},
+    
+    {"nombre":"Mina El Teniente",
+     "url":"https://es.wikipedia.org/wiki/Mina_El_Teniente",
+     "foto":"http://www.federacionminera.cl/portal/wp-content/uploads/2011/04/FOTO-MINA-EL-TENIENTE-CODELCO.jpg",
+     "material":"Cobre",
+     "estado":"Activa",
+     "ubicacion":[-34.094266,-70.350893]},
+   
+    {"nombre":"Collahuasi",
+     "url":"https://es.wikipedia.org/wiki/Collahuasi",
+     "foto":"https://www.tarapacaonline.cl/wp-content/uploads/2018/03/collahuasi_002-600x381.jpg",
+     "material":"Cobre",
+     "estado":"Activa",
+     "ubicacion":[-20.986944,-68.717222]},
+    
+    {"nombre":"Isla Riesco",
+     "url":"https://es.wikipedia.org/wiki/Isla_Riesco",
+     "foto":"https://www.eldesconcierto.cl/wp-content/uploads/2018/12/Mina-Invierno.jpg",
+     "material":"Carbón",
+     "estado":"Activa",
+     "ubicacion":[-53.1556595,-70.9160845]},
+    
+    {"nombre":"Salar de Surire",
+     "url":"https://es.wikipedia.org/wiki/Salar_de_Surire",
+     "foto":"https://chile.travel/wp-content/uploads/bfi_thumb/Salar-de-Surire-shutterstock-ATR31-mpo43h4fvw1fl9jllp9loxbmrbndv17lkoin1omm5s.jpg",
+     "material":"Borato",
+     "estado":"Activa",
+     "ubicacion":[-18.837222,-69.046111]},
+    
+    {"nombre":"Chañarcillo",
+     "url":"https://es.wikipedia.org/wiki/Cha%C3%B1arcillo",
+     "foto":"https://img.soy-chile.cl/Fotos/2011/05/13/file_20110513154333.jpg",
+     "material":"Plata",
+     "estado":"Inactiva",
+     "ubicacion":[-27.133333,-70.066667]},
+    
+    {"nombre":"Chiflón del Diablo",
+     "url":"https://es.wikipedia.org/wiki/Chifl%C3%B3n_del_Diablo",
+     "foto":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Mina_Chifl%C3%B3n_del_Diablo.JPG/1200px-Mina_Chifl%C3%B3n_del_Diablo.JPG",
+     "material":"Carbón",
+     "estado":"Inactiva",
+     "ubicacion":[-27.133333,-70.066667]},
+    
+    {"nombre":"El Romeral",
+     "url":"https://es.wikipedia.org/wiki/El_Romeral_(mina)",
+     "foto":"https://www.df.cl/noticias/site/artic/20160309/imag/foto_0000000220160309213436.jpg",
+     "material":"Hierro",
+     "estado":"Activa",
+     "ubicacion":[-29.721944,-71.235833]},
+    
+    {"nombre":"San José",
+     "url":"https://es.wikipedia.org/wiki/Mina_San_Jos%C3%A9",
+     "foto":"http://www.radioatacamanuevomundo.cl/wp-content/uploads/2015/12/A_UNO_296171-574x384.jpg",
+     "material":"Oro",
+     "estado":"Inactiva",
+     "ubicacion":[-27.158609,-70.497655]},
+
+
+    {"nombre":"El Soldado",
+     "url":"https://es.wikipedia.org/wiki/Mina_El_Soldado",
+     "foto":"http://static.emol.cl/emol50/Fotos/2017/02/21/file_20170221094417.jpg",
+     "material":"Cobre",
+     "estado":"Activa",
+     "ubicacion":[-32.6520941,-71.1670776]},
+    
+    {"nombre":"Radomiro Tomic",
+     "url":"https://es.wikipedia.org/wiki/Radomiro_Tomic_(mina)",
+     "foto":"https://www.codelco.com/prontus_codelco/site/artic/20110706/imag/foto_3191320110706132737.jpg",
+     "material":"Cobre",
+     "estado":"Activa",
+     "ubicacion":[-22.216667,-68.9]},
+    
+    {"nombre":"Cerro Casale",
+     "url":"https://es.wikipedia.org/wiki/Cerro_Casale_(mina)",
+     "foto":"https://www.chilemineria.cl/wp-content/uploads/2017/12/cerro-casale-0317.jpg",
+     "material":"Oro",
+     "estado":"Activa",
+     "ubicacion":[-28.064622,-69.5585028]}
+
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

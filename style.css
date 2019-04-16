@@ -9,6 +9,10 @@ nav{
   font-family: 'Rubik Mono One', sans-serif;
   font-weight: 400;
 }
+.gris {
+    background-color:#A4A4A4;
+    color:black;
+}
 
 header {
   position: relative;
